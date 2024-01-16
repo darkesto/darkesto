@@ -5,9 +5,9 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Developer with a knack
 💼 What I do
 I specialize in creating dynamic and user-friendly web experiences using:
 
-Front-End: JavaScript (ES6+), React, Angular, Vue.js, HTML5, CSS3, Bootstrap  
-Back-End: Node.js, Express.js, Ruby on Rails, Django, Flask  
-Databases: MongoDB, MySQL, PostgreSQL, Firebase  
+Front-End: JavaScript, React, Vue.js, HTML5, CSS3, Bootstrap  
+Back-End: Node.js, Express.js, PHP      
+Databases: MongoDB, MySQL, PostgreSQL  
 <!--
 **darkesto/darkesto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
