@@ -7,7 +7,7 @@ I specialize in creating dynamic and user-friendly web experiences using:
 
 Front-End: JavaScript, React, Vue.js, HTML5, CSS3, Bootstrap  
 Back-End: Node.js, Express.js, PHP      
-Databases: MongoDB, MySQL, PostgreSQL  
+Databases: MongoDB, MySQL  
 <!--
 **darkesto/darkesto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
