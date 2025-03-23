@@ -1,4 +1,4 @@
-### Hi there I'm Darko 👋
+### Hi there 👋
 
 Welcome to my GitHub profile! I'm a passionate Full Stack Developer with a knack for building engaging, responsive, and efficient web applications.
 
