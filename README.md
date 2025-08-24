@@ -1,24 +1,11 @@
-### Hi there 👋
+### Hey there 👋👋
+As a web developer who codes games for fun and learning, I share my projects and experiments on GitHub. 
+Check out my work at github.com/darkesto to explore my latest game prototypes and coding adventures.
 
-Welcome to my GitHub profile! I'm a passionate Full Stack Developer with a knack for building engaging, responsive, and efficient web applications.
-
-💼 What I do
-I specialize in creating dynamic and user-friendly web experiences using:
-
-Front-End: JavaScript, React, Vue.js, HTML5, CSS3, Bootstrap  
-Back-End: Node.js, Express.js, PHP      
-Databases: MongoDB, MySQL  
 <!--
-**darkesto/darkesto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Hi there 👋👋
+As a web developer who codes games for fun and learning, I share my projects and experiments on GitHub. 
+Check out my work at github.com/darkesto to explore my latest game prototypes and coding adventures.
+If you enjoy my games and want to support their evolution or see new ones come to life, consider contributing at buymeacoffee.com/darkesto.☕ 
+Your support helps fuel my passion for game development!😎
 -->
