@@ -1,7 +1,7 @@
 LEARNING
 
 [![Grammar B2 Practice](https://img.shields.io/badge/Play%20Now-Don't%20Click%20It-5cb85c.svg)](https://darkesto.github.io/Grammar-B2-Exercise/)
-*A game that teaches you to recognize and avoid phishing scams.*
+*Practice your grammar skills with these B2 level tests*
 
 
 GAMES
