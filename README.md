@@ -1,6 +1,6 @@
 ## LEARNING
 
-[![Grammar B2 Practice Tests](https://img.shields.io/badge/Play%20Now-Grammar%20B2-5cb85c.svg)](https://darkesto.github.io/Grammar-B2-Exercise/)
+[![English Grammar Practice Tests](https://img.shields.io/badge/Play%20Now-Grammar%20B2-5cb85c.svg)](https://darkesto.github.io/Grammar-B2-Exercise/)
 *Practice your grammar skills with these B2 level tests*
 
 ## GAMES
