@@ -1,7 +1,7 @@
 ## LEARNING
 
 [![English Grammar Practice Tests](https://img.shields.io/badge/Practice%20Now-English%20Grammar-5cb85c.svg)](https://darkesto.github.io/Grammar-B2-Exercise/)
-*Practice your grammar skills with these B2 level tests*
+*Practice your grammar skills with these level tests*
 
 ## GAMES
 
